@@ -1,2 +1,3 @@
 # avs2x
-reference desigh
+reference design
+first version
